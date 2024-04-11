@@ -1,0 +1,257 @@
+<Trader> Blacks SNAFU
+	<Category> BRTX SCARH
+		BRTX_ScarH_Camo14,				*,			5000,		1500
+		BRTX_ScarH_Camo16,				*,			5000,		1500
+		BRTX_ScarH_Camo21,				*,			5000,		1500
+		BRTX_ScarH_Camo24,				*,			5000,		1500
+		BRTX_ScarH_Camo27,				*,			5000,		1500
+		BRTX_ScarH_Camo33,				*,			5000,		1500
+		BRTX_ScarH_Camo33A,				*,			5000,		1500
+		BRTX_ScarH_Camo33B,				*,			5000,		1500
+		BRTX_ScarH_Camo34,				*,			5000,		1500
+		BRTX_ScarH_Camo40,				*,			5000,		1500
+		BRTX_ScarH_Camo41,				*,			5000,		1500
+		BRTX_ScarH_Camo43,				*,			5000,		1500
+		BRTX_ScarH_Camo44,				*,			5000,		1500
+		BRTX_ScarH_Camo45,				*,			5000,		1500
+		BRTX_ScarH_Camo46,				*,			5000,		1500
+		BRTX_ScarH_Camo48,				*,			5000,		1500
+		BRTX_ScarH_Camo49,				*,			5000,		1500
+		BRTX_ScarH_Camo51,				*,			5000,		1500
+		BRTX_ScarH_Camo52,				*,			5000,		1500
+		BRTX_ScarH_Camo53,				*,			5000,		1500
+		BRTX_ScarH_Camo56,				*,			5000,		1500
+		BRTX_ScarH_Camo60,				*,			5000,		1500
+		BRTX_ScarH_Camo63,				*,			5000,		1500
+		BRTX_ScarH_Camo64,				*,			5000,		1500
+		BRTX_ScarH_Camo65,				*,			5000,		1500
+		BRTX_ScarH_Camo77,				*,			5000,		1500
+		BRTX_ScarH_Camo78,				*,			5000,		1500
+		BRTX_ScarH_Camo79,				*,			5000,		1500
+		BRTX_ScarH_Camo81,				*,			5000,		1500
+		BRTX_ScarH_Camo101,				*,			5000,		1500
+		BRTX_ScarH_Camo109,				*,			5000,		1500
+		BRTX_ScarH_Camo120,				*,			5000,		1500
+		BRTX_ScarH_Camo121,				*,			5000,		1500
+		BRTX_ScarH_Camo122,				*,			5000,		1500
+		BRTX_ScarH_Camo149,				*,			5000,		1500
+		BRTX_ScarH_Camo155,				*,			5000,		1500
+		BRTX_ScarH_Camo156,				*,			5000,		1500
+		BRTX_ScarH_Camo167,				*,			5000,		1500
+		BRTX_ScarH_Camo210,				*,			5000,		1500
+		BRTX_ScarH_Camo253,				*,			5000,		1500
+		BRTX_ScarH_Camo256,				*,			5000,		1500
+		BRTX_ScarH_Camo257,				*,			5000,		1500
+		BRTX_ScarH_Camo258,				*,			5000,		1500
+		BRTX_ScarH_Camo259,				*,			5000,		1500
+		BRTX_ScarH_Camo260,				*,			5000,		1500
+		BRTX_ScarH_Camo261,				*,			5000,		1500
+		BRTX_ScarH_Camo262,				*,			5000,		1500
+		BRTX_ScarH_Camo263,				*,			5000,		1500
+		BRTX_ScarH_Camo264,				*,			5000,		1500
+		BRTX_ScarH_Camo287,				*,			5000,		1500
+		BRTX_ScarH_Camo294,				*,			5000,		1500
+		BRTX_ScarH_Camo346,				*,			5000,		1500
+		BRTX_ScarH_Camo352,				*,			5000,		1500
+		BRTX_ScarH_Camo355,				*,			5000,		1500
+		BRTX_ScarH_Camo356,				*,			5000,		1500
+		BRTX_ScarH_Camo370,				*,			5000,		1500
+		BRTX_ScarH_DarkWolf,			*,			5000,		1500
+		BRTX_ScarH_Dragon,				*,			5000,		1500
+		BRTX_ScarH_Dragon2,				*,			5000,		1500
+		BRTX_ScarH_Dragon3,				*,			5000,		1500
+		BRTX_ScarH_Dragon4,				*,			5000,		1500
+		BRTX_ScarH_Dragon5,				*,			5000,		1500
+		BRTX_ScarH_Dragon6,				*,			5000,		1500
+		BRTX_ScarH_Dragon7,				*,			5000,		1500
+		BRTX_ScarH_Dragon8,				*,			5000,		1500
+		BRTX_ScarH_Dragon9,				*,			5000,		1500
+		BRTX_ScarH_Dragon10,			*,			5000,		1500
+		BRTX_ScarH_Dragon11,			*,			5000,		1500
+		BRTX_ScarH_Dragon12,			*,			5000,		1500
+		BRTX_ScarH_Dragon13,			*,			5000,		1500
+		BRTX_ScarH_Dragon14,			*,			5000,		1500
+		BRTX_ScarH_Dragon15,			*,			5000,		1500
+		BRTX_ScarH_Dragon16,			*,			5000,		1500
+		BRTX_ScarH_Dragon17,			*,			5000,		1500
+		BRTX_ScarH_Gold,				*,			5000,		1500
+		BRTX_ScarH_Obsidian,			*,			5000,		1500
+		BRTX_ScarH_Snake,				*,			5000,		1500
+		BRTX_ScarH_Snake2,				*,			5000,		1500
+		BRTX_ScarH_Snake3,				*,			5000,		1500
+		BRTX_ScarH_Snake4,				*,			5000,		1500
+		BRTX_ScarH_Snake5,				*,			5000,		1500
+		BRTX_ScarH_Snake6,				*,			5000,		1500
+		BRTX_ScarH_Snake7,				*,			5000,		1500
+		BRTX_ScarH_Snake8,				*,			5000,		1500
+		BRTX_ScarH_Snake9,				*,			5000,		1500
+		BRTX_ScarH_Snake10,				*,			5000,		1500
+		BRTX_ScarH_Snake11,				*,			5000,		1500
+		BRTX_ScarH_Snake12,				*,			5000,		1500
+		BRTX_ScarH_Vanta,				*,			5000,		1500
+		
+	<Category> BRTX KIVAARI
+		BRTX_Kivaari_Camo14,			*,			8000,		4500
+		BRTX_Kivaari_Camo16,			*,			8000,		4500
+		BRTX_Kivaari_Camo21,			*,			8000,		4500
+		BRTX_Kivaari_Camo24,			*,			8000,		4500
+		BRTX_Kivaari_Camo27,			*,			8000,		4500		
+		BRTX_Kivaari_Camo33,			*,			8000,		4500
+		BRTX_Kivaari_Camo34,			*,			8000,		4500
+		BRTX_Kivaari_Camo40,			*,			8000,		4500		
+		BRTX_Kivaari_Camo41,			*,			8000,		4500
+		BRTX_Kivaari_Camo43,			*,			8000,		4500
+		BRTX_Kivaari_Camo44,			*,			8000,		4500
+		BRTX_Kivaari_Camo45,			*,			8000,		4500		
+		BRTX_Kivaari_Camo46,			*,			8000,		4500
+		BRTX_Kivaari_Camo48,			*,			8000,		4500
+		BRTX_Kivaari_Camo49,			*,			8000,		4500
+		BRTX_Kivaari_Camo51,			*,			8000,		4500
+		BRTX_Kivaari_Camo52,			*,			8000,		4500
+		BRTX_Kivaari_Camo53,			*,			8000,		4500
+		BRTX_Kivaari_Camo56,			*,			8000,		4500
+		BRTX_Kivaari_Camo60,			*,			8000,		4500
+		BRTX_Kivaari_Camo63,			*,			8000,		4500
+		BRTX_Kivaari_Camo64,			*,			8000,		4500
+		BRTX_Kivaari_Camo65,			*,			8000,		4500
+		BRTX_Kivaari_Camo77,			*,			8000,		4500
+		BRTX_Kivaari_Camo78,			*,			8000,		4500
+		BRTX_Kivaari_Camo79,			*,			8000,		4500
+		BRTX_Kivaari_Camo81,			*,			8000,		4500		
+		BRTX_Kivaari_Camo101,			*,			8000,		4500
+		BRTX_Kivaari_Camo109,			*,			8000,		4500
+		BRTX_Kivaari_Camo111,			*,			8000,		4500
+		BRTX_Kivaari_Camo120,			*,			8000,		4500
+		BRTX_Kivaari_Camo121,			*,			8000,		4500
+		BRTX_Kivaari_Camo122,			*,			8000,		4500
+		BRTX_Kivaari_Camo149,			*,			8000,		4500
+		BRTX_Kivaari_Camo155,			*,			8000,		4500
+		BRTX_Kivaari_Camo156,			*,			8000,		4500
+		BRTX_Kivaari_Camo167,			*,			8000,		4500
+		BRTX_Kivaari_Camo210,			*,			8000,		4500
+		BRTX_Kivaari_Camo253,			*,			8000,		4500
+		BRTX_Kivaari_Camo256,			*,			8000,		4500
+		BRTX_Kivaari_Camo257,			*,			8000,		4500
+		BRTX_Kivaari_Camo258,			*,			8000,		4500
+		BRTX_Kivaari_Camo259,			*,			8000,		4500
+		BRTX_Kivaari_Camo260,			*,			8000,		4500
+		BRTX_Kivaari_Camo261,			*,			8000,		4500
+		BRTX_Kivaari_Camo262,			*,			8000,		4500
+		BRTX_Kivaari_Camo263,			*,			8000,		4500
+		BRTX_Kivaari_Camo264,			*,			8000,		4500
+		BRTX_Kivaari_Dragon,			*,			8000,		4500
+		BRTX_Kivaari_Dragon2,			*,			8000,		4500
+		BRTX_Kivaari_Dragon3,			*,			8000,		4500
+		BRTX_Kivaari_Dragon4,			*,			8000,		4500
+		BRTX_Kivaari_Dragon5,			*,			8000,		4500
+		BRTX_Kivaari_Dragon6,			*,			8000,		4500
+		BRTX_Kivaari_Dragon7,			*,			8000,		4500
+		BRTX_Kivaari_Dragon8,			*,			8000,		4500
+		BRTX_Kivaari_Dragon9,			*,			8000,		4500
+		BRTX_Kivaari_Dragon10,			*,			8000,		4500
+		BRTX_Kivaari_Dragon11,			*,			8000,		4500
+		BRTX_Kivaari_Dragon12,			*,			8000,		4500
+		BRTX_Kivaari_Dragon13,			*,			8000,		4500
+		BRTX_Kivaari_Dragon14,			*,			8000,		4500
+		BRTX_Kivaari_Dragon15,			*,			8000,		4500
+		BRTX_Kivaari_Dragon16,			*,			8000,		4500
+		BRTX_Kivaari_Dragon17,			*,			8000,		4500
+		BRTX_Kivaari_Evil,				*,			8000,		4500
+		BRTX_Kivaari_Evil2,				*,			8000,		4500
+		BRTX_Kivaari_Gold,				*,			8000,		4500
+		BRTX_Kivaari_Obsidian,			*,			8000,		4500
+		BRTX_Kivaari_Snake,				*,			8000,		4500
+		BRTX_Kivaari_Snake2,			*,			8000,		4500
+		BRTX_Kivaari_Snake3,			*,			8000,		4500
+		BRTX_Kivaari_Snake4,			*,			8000,		4500
+		BRTX_Kivaari_Snake5,			*,			8000,		4500
+		BRTX_Kivaari_Snake6,			*,			8000,		4500
+		BRTX_Kivaari_Snake7,			*,			8000,		4500
+		BRTX_Kivaari_Snake8,			*,			8000,		4500
+		BRTX_Kivaari_Snake9,			*,			8000,		4500
+		BRTX_Kivaari_Snake10,			*,			8000,		4500
+		BRTX_Kivaari_Snake11,			*,			8000,		4500
+		BRTX_Kivaari_Snake12,			*,			8000,		4500
+		BRTX_Kivaari_Vanta,				*,			8000,		4500
+
+	<Category> BRTX ALLIGATOR
+		BRTX_Alligator_Alligator1,		*,			12000,		8500
+		BRTX_Alligator_Alligator2,		*,			12000,		8500
+		BRTX_Alligator_Alligator3,		*,			12000,		8500
+		BRTX_Alligator_Alligator4,		*,			12000,		8500
+		BRTX_Alligator_Alligator5,		*,			12000,		8500
+		BRTX_Alligator_Alligator6,		*,			12000,		8500
+		BRTX_Alligator_Alligator7,		*,			12000,		8500
+		BRTX_Alligator_Alligator8,		*,			12000,		8500
+		BRTX_Alligator_Alligator9,		*,			12000,		8500
+		BRTX_Alligator_Alligator10,		*,			12000,		8500
+		BRTX_Alligator_Alligator11,		*,			12000,		8500
+		BRTX_Alligator_Alligator12,		*,			12000,		8500
+		BRTX_Alligator_Dragon1,			*,			12000,		8500
+		BRTX_Alligator_Dragon2,			*,			12000,		8500
+		BRTX_Alligator_Dragon3,			*,			12000,		8500
+		BRTX_Alligator_Dragon4,			*,			12000,		8500
+		BRTX_Alligator_Dragon5,			*,			12000,		8500
+		BRTX_Alligator_Dragon6,			*,			12000,		8500
+		BRTX_Alligator_Dragon7,			*,			12000,		8500
+		BRTX_Alligator_Dragon8,			*,			12000,		8500
+		BRTX_Alligator_Dragon9,			*,			12000,		8500
+		BRTX_Alligator_Dragon10,		*,			12000,		8500
+		BRTX_Alligator_Dragon11,		*,			12000,		8500
+		BRTX_Alligator_Dragon12,		*,			12000,		8500
+		BRTX_Alligator_Dragon13,		*,			12000,		8500
+		BRTX_Alligator_Dragon14,		*,			12000,		8500
+		BRTX_Alligator_Dragon15,		*,			12000,		8500
+		BRTX_Alligator_Dragon16,		*,			12000,		8500
+		BRTX_Alligator_Dragon17,		*,			12000,		8500
+		BRTX_Alligator_Snake,			*,			12000,		8500
+		BRTX_Alligator_Snake2,			*,			12000,		8500
+		BRTX_Alligator_Snake3,			*,			12000,		8500
+		BRTX_Alligator_Snake3A,			*,			12000,		8500
+		BRTX_Alligator_Snake4,			*,			12000,		8500
+		BRTX_Alligator_Snake5,			*,			12000,		8500
+		BRTX_Alligator_Snake9,			*,			12000,		8500
+		BRTX_Alligator_Snake10,			*,			12000,		8500
+		BRTX_Alligator_Snake11,			*,			12000,		8500
+		BRTX_Alligator_Snake12,			*,			12000,		8500
+		BRTX_Alligator_Snake12A,		*,			12000,		8500
+		BRTX_Alligator_Snake13,			*,			12000,		8500
+		BRTX_Alligator_Snake13A,		*,			12000,		8500
+		BRTX_Alligator_Snake14,			*,			12000,		8500
+		BRTX_Alligator_Snake15,			*,			12000,		8500
+		BRTX_Alligator_Snake16,			*,			12000,		8500
+		BRTX_Alligator_Snake17,			*,			12000,		8500
+		BRTX_Alligator_Snake18,			*,			12000,		8500
+		BRTX_Alligator_Snow,			*,			12000,		8500
+		
+	<Category> BRTX MAGAZINES		
+		BRTX_Kivaari_10Mag_Vanta,		*,			2000,		500
+		BRTX_Kivaari_25Mag_Vanta,		*,			2000,		500
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
